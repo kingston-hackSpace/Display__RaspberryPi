@@ -20,11 +20,12 @@ The 3.5'' LCD TFT Display module was designed for use with Raspberry Pi boards. 
 
       - Best at 320×240 or 480×32
 
+----
 ### Wiring
 
 Wiring reference image [here](https://github.com/kingston-hackSpace/Display__RaspberryPi/blob/main/LCD_Elegoo_3.png)
 
-
+----
 ### Driver Installation Instructions:
 
   - If you are running this screen for the first time in your RPi, you will need to install a driver that allows communication between the devices.
@@ -43,6 +44,9 @@ Wiring reference image [here](https://github.com/kingston-hackSpace/Display__Ras
     sudo ./LCD35-show
     ```
   - The Pi will reboot automatically. 
+
+----
+### Official Elegoo Manual
 
 For further details, download manual [here](https://github.com/kingston-hackSpace/Display__RaspberryPi/blob/main/35_tft.pdf)
 
