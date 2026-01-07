@@ -27,7 +27,7 @@ Compact colour displays that connect via the RPi GPIO pins (often using SPI) and
 
 **Cannot realistically run:** Full-motion video smoothly.
 
-Read more [here]
+Read more [here](https://github.com/kingston-hackSpace/Display__RaspberryPi/blob/main/GPIO__LCD_TFT_Display.md)
 
 ----
 ## DSI ribbon connection - LCD TFT Display
