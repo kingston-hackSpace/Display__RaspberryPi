@@ -5,9 +5,9 @@ The following screens are available at hackSpace:
 ----
 # 3.5'' LCD TFT Display
 
-See reference image [here]
+See reference image [here](https://github.com/kingston-hackSpace/Display__RaspberryPi/blob/main/LCD_Elegoo_1.jpg)
 
-Display module designed for use with Raspberry Pi boards. It offers a 480 × 320 pixel colour display with an integrated resistive touch panel, making it suitable for small graphical interfaces and DIY projects. The screen connects via the Pi’s GPIO pins using an SPI interface, so it doesn’t use HDMI and leaves most GPIO free for other hardware. It typically includes a simple touch stylus and requires a compatible driver to appear as the console display on the Pi.
+The 3.5'' LCD TFT Display module was designed for use with Raspberry Pi boards. It offers a 480 × 320 pixel colour display with an integrated resistive touch panel, making it suitable for small graphical interfaces and DIY projects. The screen connects via the Pi’s GPIO pins using an SPI interface, so it doesn’t use HDMI and leaves most GPIO free for other hardware. It typically includes a simple touch stylus and requires a compatible driver to appear as the console display on the Pi.
 
 ----
 ### Features
@@ -22,7 +22,7 @@ Display module designed for use with Raspberry Pi boards. It offers a 480 × 320
 
 ### Wiring
 
-Wiring reference image [here]
+Wiring reference image [here](https://github.com/kingston-hackSpace/Display__RaspberryPi/blob/main/LCD_Elegoo_3.png)
 
 
 ### Driver Installation Instructions:
@@ -44,7 +44,7 @@ Wiring reference image [here]
     ```
   - The Pi will reboot automatically. 
 
-For further details, download manual [here]
+For further details, download manual [here](https://github.com/kingston-hackSpace/Display__RaspberryPi/blob/main/35_tft.pdf)
 
 ----
 
