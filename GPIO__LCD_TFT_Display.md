@@ -30,7 +30,7 @@ Wiring reference image [here](https://github.com/kingston-hackSpace/Display__Ras
 
 If you are running this screen *for the first time* in your RPi, you will need to install a driver that allows communication between the devices.
 
-  - Connect your RPi to a keyboard, mouse and screen via HDMI.
+  - Connect your RPi to a keyboard, mouse, and screen via HDMI.
 
   - Connect your RPi to Ethernet or WIFI (Eduroam might not work).
 
