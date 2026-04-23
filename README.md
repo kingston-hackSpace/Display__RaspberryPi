@@ -1,4 +1,4 @@
-# Display__RaspberryPi
+# All Display screen types for Raspberry Pi
 
 Raspberry Pi can work with a wide range of display screens. Below is a list of suitable types:
 
